@@ -4,7 +4,7 @@ imatlab
 
 The R package **imatlab** aims to provide some useful matlab functions.
 
-It is a working package. If you have some functions that are very convenience in matlab, but not in R, thanks for provide the information.
+It is a working package. If you have some functions that are very convenient in matlab, but not in R, thanks for provide the information.
 
 For example, in matlab:
 
