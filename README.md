@@ -2,7 +2,7 @@ imatlab
 =======
 
 
-The R package **ibelief** aims to provide some useful matlab functions.
+The R package **imatlab** aims to provide some useful matlab functions.
 
 It is a working package. If you have some functions that are very convenience in matlab, but not in R, thanks for provide the information.
 
