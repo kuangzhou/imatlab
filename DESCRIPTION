@@ -5,5 +5,5 @@ Version: 1.0
 Date: 2014-10-09
 Author: Kuang ZHOU <kzhoumath@163.com>
 Maintainer: Kuang ZHOU <kzhoumath@163.com>
-Description: Some useful matlab functions in R. Some functions in matlab are very convenient, but they donot have the equivalence forms in R. This package amis to provide some useful functions similar to those in Matlab.
+Description: Some useful matlab functions in R. Some functions in matlab are very convenient, but they donot have the equivalence forms in R. This package amis to provide some useful functions playing the same rule with those in Matlab.
 License: GPL (>= 2)
