@@ -1,0 +1,9 @@
+Package: imatlab
+Type: Package
+Title: Some matlab functions in R
+Version: 1.0
+Date: 2014-10-09
+Author: Kuang ZHOU <kzhoumath@163.com>
+Maintainer: Kuang ZHOU <kzhoumath@163.com>
+Description: Some useful matlab functions in R
+License: GPL (>= 2)
