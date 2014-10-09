@@ -1,6 +1,6 @@
 Package: imatlab
 Type: Package
-Title: Some matlab functions in R
+Title: Some Useful Matlab Functions in R
 Version: 1.0
 Date: 2014-10-09
 Author: Kuang ZHOU <kzhoumath@163.com>
